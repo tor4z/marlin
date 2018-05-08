@@ -56,7 +56,7 @@ class HTTPConnection:
         type = type or socket.SOCK_STREAM
         proto = proto or socket.IPPROTO_IP
         err = None
-        log.debug(f"connect to {host}")
+        log.debug("connect to {0}".format(host))
 
         for res in socket.getaddrinfo(host, port, family, type,
                                       proto, flags):
