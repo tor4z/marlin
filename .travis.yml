@@ -6,7 +6,7 @@ python:
   - "3.6"
 
 env:
-  - TOXENV=py36,codecov
+  - TOXENV=codecov
   # - TOXENV=py27
 
 # matrix:
