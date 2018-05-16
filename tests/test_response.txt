@@ -1,0 +1,46 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json
+Content-Length: 179
+Connection: keep-alive
+Date: Tue, 08 May 2018 23:34:13 GMT
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.0.13
+Set-Cookie: ac_username=%E5%A6%82%E6%9E%9C%E7%94%B5%E8%AF%9D%E4%BA%AD; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.acfun.cn
+Set-Cookie: ac_userimg=http://cdn.aixifan.com/dotnet/artemis/u/cms/www/201801/24110804az0eyq3e.jpg; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.acfun.cn
+Set-Cookie: auth_key=827525; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.acfun.cn
+Set-Cookie: auth_key_ac_sha1=-1547565454; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.acfun.cn
+Set-Cookie: auth_key_ac_sha1_=WDMrecQAhtUC++ns4r771hfX6w0=; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.acfun.cn
+Set-Cookie: checkEmail=1; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.acfun.cn
+Set-Cookie: checkMobile=1; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.acfun.cn
+Set-Cookie: userGroupLevel=1; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.acfun.cn
+Set-Cookie: checkReal=0; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.acfun.cn
+Set-Cookie: ac_username=%E5%A6%82%E6%9E%9C%E7%94%B5%E8%AF%9D%E4%BA%AD; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.aixifan.com
+Set-Cookie: ac_userimg=http://cdn.aixifan.com/dotnet/artemis/u/cms/www/201801/24110804az0eyq3e.jpg; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.aixifan.com
+Set-Cookie: auth_key=827525; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.aixifan.com
+Set-Cookie: auth_key_ac_sha1=-1547565454; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.aixifan.com
+Set-Cookie: auth_key_ac_sha1_=WDMrecQAhtUC++ns4r771hfX6w0=; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.aixifan.com
+Set-Cookie: checkEmail=1; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.aixifan.com
+Set-Cookie: checkMobile=1; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.aixifan.com
+Set-Cookie: userGroupLevel=1; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.aixifan.com
+Set-Cookie: checkReal=0; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.aixifan.com
+Set-Cookie: ac_username=%E5%A6%82%E6%9E%9C%E7%94%B5%E8%AF%9D%E4%BA%AD; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.hapame.com
+Set-Cookie: ac_userimg=http://cdn.aixifan.com/dotnet/artemis/u/cms/www/201801/24110804az0eyq3e.jpg; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.hapame.com
+Set-Cookie: auth_key=827525; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.hapame.com
+Set-Cookie: auth_key_ac_sha1=-1547565454; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.hapame.com
+Set-Cookie: auth_key_ac_sha1_=WDMrecQAhtUC++ns4r771hfX6w0=; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.hapame.com
+Set-Cookie: checkEmail=1; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.hapame.com
+Set-Cookie: checkMobile=1; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.hapame.com
+Set-Cookie: userGroupLevel=1; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.hapame.com
+Set-Cookie: checkReal=0; expires=Thu, 07-Jun-2018 23:34:13 GMT; Max-Age=2592000; path=/; domain=.hapame.com
+Set-Cookie: ac_login_error=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/login; domain=http://www.acfun.cn
+Cache-Control: no-cache
+Set-Cookie: XSRF-TOKEN=eyJpdiI6Im1SMlZwYzN3eEJBaUZaenBlRHFWNnc9PSIsInZhbHVlIjoiYzhrOWZaNkt6d1wvdE9DaHVLMHozYm16ekFDblRVYnBZbGZxN1Z3YkVFXC9neStRZjhRZWZZVWM2aDc5OElGTFhpVlZOTG04QW1nSklhbTVoanhGaHRhZz09IiwibWFjIjoiMGMzZDM1ZjA1YWViOGM3OTk5ODE0MzVhYmNmY2EyZTRhNGM3ZWVlMWMzODVjMDRhN2U4NjdjZDgzZjRkNzdhZiJ9; expires=Wed, 09-May-2018 01:34:13 GMT; Max-Age=7200; path=/; domain=.acfun.cn
+Set-Cookie: ap_session=eyJpdiI6IkxoaUwya0x4WEZwaTl2aVBzMVBDQlE9PSIsInZhbHVlIjoiOEFpVjlYaUlGWEFIRStVdFNkWDlKSnpRVW1GVG9UVk81VGZ6Y3c3ZkFReERkSTNUNlpNa1I4OG9kS1hNaGppSmhWMUNSZWNiSjRZQUNaNDF1SVhSVVE9PSIsIm1hYyI6IjVlZWM1OTQ3Y2Y1NjZlY2IyYTQ4OGE0YzM1YWE3NzFlMGFkYjI5MTJjYjk5N2EzMGM3N2JjZjAzYmEzOGY0ZTEifQ%3D%3D; expires=Wed, 09-May-2018 01:34:13 GMT; Max-Age=7200; path=/; domain=.acfun.cn; HttpOnly
+Via: cache15.l2st4-2[246,200-0,M], cache9.l2st4-2[247,0], kunlun7.cn116[253,200-0,M], kunlun9.cn116[254,0]
+X-Cache: MISS TCP_MISS dirn:-2:-2 mlen:-1
+X-Swift-SaveTime: Tue, 08 May 2018 23:34:13 GMT
+X-Swift-CacheTime: 0
+Timing-Allow-Origin: *
+EagleId: 7793970915258224534847491e
+
