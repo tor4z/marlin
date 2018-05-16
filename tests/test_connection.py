@@ -1,15 +1,8 @@
-import pytest
-from marlin.connection import HTTPConnection, schema_to_port
+from marlin.connection import HTTPConnection
+
 
 host = "www.python.org"
 port = 443
-
-
-def test_schema_to_port():
-    schemas = {"http": 80, "https": 443}
-    for schema in schemas:
-        port = schema_to_port(schema)
-        assert port == schemas[schema]
 
 
 def test_parse_host_port():
@@ -44,7 +37,6 @@ def test_send_data():
     conn.connect()
     conn.send(b'data')
     resp = conn.get_reponse()
-    data = resp.read()
     conn.close()
 
-    assert "HTTP" in str(data)
+    assert "HTTP" in str(data = resp.body)
